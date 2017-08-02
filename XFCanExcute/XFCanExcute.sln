@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFCanExcute", "XFCanExcute\XFCanExcute\XFCanExcute.csproj", "{B9758EDB-B1BB-4AAF-9335-43F20DD08E70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFCanExcute.Droid", "XFCanExcute\XFCanExcute.Droid\XFCanExcute.Droid.csproj", "{0B744969-9A57-4A41-82DA-F1A54F8ACA73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9758EDB-B1BB-4AAF-9335-43F20DD08E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9758EDB-B1BB-4AAF-9335-43F20DD08E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9758EDB-B1BB-4AAF-9335-43F20DD08E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9758EDB-B1BB-4AAF-9335-43F20DD08E70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B744969-9A57-4A41-82DA-F1A54F8ACA73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B744969-9A57-4A41-82DA-F1A54F8ACA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B744969-9A57-4A41-82DA-F1A54F8ACA73}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0B744969-9A57-4A41-82DA-F1A54F8ACA73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B744969-9A57-4A41-82DA-F1A54F8ACA73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B744969-9A57-4A41-82DA-F1A54F8ACA73}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

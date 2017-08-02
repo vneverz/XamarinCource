@@ -1,0 +1,2 @@
+F:\XFcodeBehide\XFcodeBehide\XFcodeBehide.UWP\XFcodeBehide.UWP.csproj;x86
+F:\XFcodeBehide\XFcodeBehide\XFcodeBehide\XFcodeBehide.csproj;neutral

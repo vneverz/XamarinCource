@@ -1,0 +1,15 @@
+F:\XFNativeAndroid\XFNativeAndroid\bin\Debug\XFNativeAndroid.dll
+F:\XFNativeAndroid\XFNativeAndroid\bin\Debug\XFNativeAndroid.pdb
+F:\XFNativeAndroid\XFNativeAndroid\bin\Debug\XFNativeAndroid.XFNativeAndroid.apk
+F:\XFNativeAndroid\XFNativeAndroid\bin\Debug\XFNativeAndroid.XFNativeAndroid-Signed.apk
+F:\XFNativeAndroid\XFNativeAndroid\obj\Debug\XFNativeAndroid.csprojResolveAssemblyReference.cache
+F:\XFNativeAndroid\XFNativeAndroid\obj\Debug\XFNativeAndroid.dll
+F:\XFNativeAndroid\XFNativeAndroid\obj\Debug\XFNativeAndroid.pdb
+F:\XFNativeAndroid\XFNativeAndroid\obj\Debug\android\bin\XFNativeAndroid.XFNativeAndroid.apk
+F:\XFNativeAndroid\XFNativeAndroid\obj\Debug\res\layout\main.xml
+F:\XFNativeAndroid\XFNativeAndroid\obj\Debug\res\values\strings.xml
+F:\XFNativeAndroid\XFNativeAndroid\obj\Debug\res\drawable\icon.png
+F:\XFNativeAndroid\XFNativeAndroid\obj\Debug\R.cs.flag
+F:\XFNativeAndroid\XFNativeAndroid\obj\Debug\uploadflags.txt
+F:\XFNativeAndroid\XFNativeAndroid\bin\Debug\XFNativeAndroid.dll.mdb
+F:\XFNativeAndroid\XFNativeAndroid\obj\Debug\android\assets\XFNativeAndroid.dll.mdb
