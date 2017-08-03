@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             Title="下一頁"
+             x:Class="XFSimpleNavi.Views.NextPage">
+    <StackLayout HorizontalOptions="Center"
+               VerticalOptions="Center">
+        <Label
+            Text="這是下一頁" />
+        <Button
+            Text="回上一頁"
+            Command="{Binding goBackCommand}"/>
+    </StackLayout>
+</ContentPage>
